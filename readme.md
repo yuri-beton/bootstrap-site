@@ -1,2 +1,6 @@
-# Создать сайт 
-пример - [http://ksergey.ru/bootstrap-demo/](https://iksergey.github.io/css-style-library/theory/066-bootstrap-components/site)
+# Образовательная онлайн платформа
+Цель сайта: Верстка сайта для образовательной онлайн платформы.
+Технологии: HTML, CSS, JavaScript, Bootstrap.
+Совместимость: Сайт должен корректно отображаться на различных устройствах и браузерах.
+***
+Ссылка на сайт https://yuri-beton.github.io/bootstrap-site/
